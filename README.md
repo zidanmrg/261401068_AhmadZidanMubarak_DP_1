@@ -1,9 +1,4 @@
 # Tugas Besar Dasar Pemrograman
-<<<<<<< Updated upstream
-Lab 1
-Ilmu Komputer
-Universitas Sumatera Utara
-=======
 ![ReisenUdongeinInaba](img/HReEwpTXcAMQb_w.jpg)
 Repository ini berisikan code yang ditugaskan untuk praktikan Lab 1 Dasar Pemrograman, termasuk saya sendiri.
 
@@ -12,4 +7,3 @@ Di saat dimana repository ini sudah lengkap, akan saya berikan laporan penuh di 
 Tapi karena belum lengkap, saya belum kirim file nya ke repository.
 
 Terima kasih.
->>>>>>> Stashed changes
