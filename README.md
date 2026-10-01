@@ -1,1 +1,4 @@
-# 261401068_AhmadZidanMubarak_DP_1
+# Tugas Besar Dasar Pemrograman
+## Lab 1
+### Ilmu Komputer
+#### Universitas Sumatera Utara
