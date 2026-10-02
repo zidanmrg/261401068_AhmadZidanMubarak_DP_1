@@ -49,4 +49,5 @@ begin
     writeln('Total mahasiswa tidak lulus    : ', failedM);
     readln;
 
+
 end.
